@@ -1,0 +1,9 @@
+step,n_index_stays,split
+discharge in window,24693,train
+has prior-year beneficiary record,24693,train
+"12 months Part A, no HMO, prior year",17859,train
+alive at discharge,17857,train
+discharge in window,13401,test
+has prior-year beneficiary record,13401,test
+"12 months Part A, no HMO, prior year",9386,test
+alive at discharge,9385,test

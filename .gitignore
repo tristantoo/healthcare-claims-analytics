@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/raw/
+data/sample/
+outputs_sample/
+outputs_run.log
+*.pbix.bak
+outputs/index_stays_scored.csv
